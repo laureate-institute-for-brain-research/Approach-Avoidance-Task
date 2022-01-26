@@ -1,0 +1,5 @@
+TrialTypes (L R; 0:positive; 1:negative),Stimuli,Floats (iti left_reward right_reward start_location),ExtraArgs (left_sound right_sound)
+0 1,media/images/PI/8496.gif media/images/NI/9250.gif,1 0 4 3,media/sounds/IADSPA/360_RollerCoaster.aiff media/sounds/IADSNA/699_Bomb.aiff
+1 0,media/images/NI/9420.gif media/images/PI/8080.gif,1 0 0 2,media/sounds/IADSNA/706_War.aiff media/sounds/SimplyTheBest/oceanwaves.aiff
+1 0,media/images/NI/3051.gif media/images/PI/8120.gif,1 6 0 -2,media/sounds/IADSNA/279_Attack1.aiff media/sounds/Freesound/whistle.aiff
+0 0,media/images/PI/5201.gif media/images/PI/5201.gif,1 2 0 1,media/sounds/IADSPA/152_Tropical.aiff media/sounds/IADSPA/152_Tropical.aiff

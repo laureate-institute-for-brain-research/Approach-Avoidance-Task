@@ -1,0 +1,59 @@
+Original File Name:,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\data/AAC-AAXXX-Admin_RA-run_P-2014_Aug_19_1440.csv,Time:,2014_Aug_19_1440,Parameter File:,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\T1000_AAC_ScheduleP.csv,Post-question file:,T1000_AAC_PostQuestions.csv,Event Codes:,[('INSTRUCT_ONSET', 1), ('TASK_ONSET', 2), ('FIXATION_ONSET', 3), ('DECISION_ONSET', 4), ('SELECTOR_MOVEMENT', 5), ('FINAL_LOCATION', 6), ('OUTCOME_SIDE', 7), ('NEGATIVE_OUTCOME_SHOWN', 8), ('POSITIVE_OUTCOME_SHOWN', 9), ('POINTS_AWARDED', 10), ('TOTAL_POINTS', 11), ('VAS_RATING', 12), ('POST_RATING', 13)], For ratings the trial number is negative and used to identify the question being rated.  VAS ratings are in the order pleasant-unpleasant-intense and are from 0 (not at all) to 100 (very much) 
+trial_number,trial_type,event_code,absolute_time,response_time,response,result
+NA,NA,1,-0.00446116065723,NA,NA,NA
+-1,NA,12,7.2502826925,5.90792518629,81,NA
+-2,NA,12,7.2502826925,5.90792518629,22,NA
+-3,NA,12,7.2502826925,5.90792518629,58,NA
+NA,NA,2,60.7226229858,60.7270841464,NA,NA
+0,01043,3,60.738731146,NA,NA,NA
+0,01043,4,61.7403291325,NA,NA,NA
+0,01043,5,63.266855566,1.52652643349,-1,2.0
+0,01043,5,63.5628149266,1.82248579417,-1,1.0
+0,01043,5,63.7227820717,1.98245293922,-1,0.0
+0,01043,5,63.8587993761,2.11847024367,-1,-1.0
+0,01043,5,63.9947870302,2.25445789768,-1,-2.0
+0,01043,5,64.1388797972,2.39855066473,-1,-3.0
+0,01043,5,64.2670733825,2.52674425003,-1,-4.0
+0,01043,6,64.3868553721,2.64652623962,1,-4.0
+0,01043,6,65.7276735355,NA,NA,-4.0
+0,01043,7,65.7474403863,NA,NA,-1
+0,01043,9,65.7474403863,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/8496_WaterSlide.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/360_Rollercoaster.aiff
+0,01043,10,71.7408329045,NA,NA,0.0
+0,01043,11,71.7408329045,NA,NA,0.0
+1,10002,3,73.7435481986,NA,NA,NA
+1,10002,4,74.7451433341,NA,NA,NA
+1,10002,5,75.3946611299,0.649517795813,1,3.0
+1,10002,5,75.5787525969,0.833609262801,1,4.0
+1,10002,6,76.0429903431,1.29784700897,1,4.0
+1,10002,6,78.7276783822,NA,NA,4.0
+1,10002,7,78.7354316816,NA,NA,-1
+1,10002,8,78.7354316816,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/9420_Soldier.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSNA/706_War.aiff
+1,10002,10,84.7457283597,NA,NA,0.0
+1,10002,11,84.7457283597,NA,NA,0.0
+2,1060-2,3,86.7317536042,NA,NA,NA
+2,1060-2,4,87.7333527311,NA,NA,NA
+2,1060-2,5,88.5706640197,0.837311288633,1,-1.0
+2,1060-2,5,88.7706883102,1.03733557917,1,0.0
+2,1060-2,5,88.9305576659,1.19720493486,1,1.0
+2,1060-2,5,89.0986652764,1.36531254536,1,2.0
+2,1060-2,5,89.2665892824,1.53323655133,1,3.0
+2,1060-2,5,89.4266847225,1.69333199147,1,4.0
+2,1060-2,6,89.5065495508,1.77319681976,1,4.0
+2,1060-2,6,91.7276738206,NA,NA,4.0
+2,1060-2,7,91.7420671032,-1,NA,1
+2,1060-2,9,91.7420671032,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/8120_Athlete.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/whistle.aiff
+2,1060-2,10,97.7511840367,NA,NA,0.0
+2,1060-2,11,97.7511840367,NA,NA,0.0
+3,00201,3,99.7366316682,NA,NA,NA
+3,00201,4,100.73827242,NA,NA,NA
+3,00201,5,101.506447485,0.768175065183,-1,0.0
+3,00201,5,101.706813896,0.968541475944,-1,-1.0
+3,00201,5,101.874422011,1.13614959092,-1,-2.0
+3,00201,5,102.042504247,1.3042318275,-1,-3.0
+3,00201,5,102.226472836,1.48820041629,-1,-4.0
+3,00201,6,102.434467672,1.69619525256,1,-4.0
+3,00201,6,104.72767211,NA,NA,-4.0
+3,00201,7,104.745891437,NA,NA,-1
+3,00201,9,104.745891437,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/5201_Nature.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/152_Tropical.aiff
+3,00201,10,110.755663816,NA,NA,2.0
+3,00201,11,110.755663816,NA,NA,2.0

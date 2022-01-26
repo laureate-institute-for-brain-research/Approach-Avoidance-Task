@@ -1,0 +1,46 @@
+Original File Name:,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\data/AAC-AAXXX-Admin_RA-run_P-2014_Aug_21_0851.csv,Time:,2014_Aug_21_0851,Parameter File:,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\T1000_AAC_ScheduleP.csv,Post-question file:,T1000_AAC_PostQuestions.csv,Event Codes:,[('INSTRUCT_ONSET', 1), ('TASK_ONSET', 2), ('FIXATION_ONSET', 3), ('DECISION_ONSET', 4), ('SELECTOR_MOVEMENT', 5), ('FINAL_LOCATION', 6), ('OUTCOME_SIDE', 7), ('NEGATIVE_OUTCOME_SHOWN', 8), ('POSITIVE_OUTCOME_SHOWN', 9), ('POINTS_AWARDED', 10), ('TOTAL_POINTS', 11), ('VAS_RATING', 12), ('POST_RATING', 13)], For ratings the trial number is negative and used to identify the question being rated.  VAS ratings are in the order pleasant-unpleasant-intense and are from 0 (not at all) to 100 (very much) 
+trial_number,trial_type,event_code,absolute_time,response_time,response,result
+NA,NA,1,-0.0046139732558,NA,NA,NA
+-1,NA,12,7.28627285904,4.83036604972,12,NA
+-2,NA,12,7.28627285904,4.83036604972,81,NA
+-3,NA,12,7.28627285904,4.83036604972,35,NA
+NA,NA,2,110.812160172,110.816774145,NA,NA
+0,01043,3,110.824627923,NA,NA,NA
+0,01043,4,111.826660408,NA,NA,NA
+0,01043,5,112.588397517,0.761737108945,-1,2.0
+0,01043,5,112.908392591,1.0817321824,-1,1.0
+0,01043,5,113.260397948,1.43373754002,-1,0.0
+0,01043,5,113.548352802,1.72169239371,-1,-1.0
+0,01043,5,113.860558061,2.03389765274,-1,-2.0
+0,01043,5,114.140391243,2.31373083444,-1,-3.0
+0,01043,5,114.452553166,2.62589275812,-1,-4.0
+0,01043,6,114.724534667,2.89787425849,1,-4.0
+0,01043,6,115.817221285,NA,NA,-4.0
+0,01043,7,115.833428706,-1,NA,1
+0,01043,8,115.833428706,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/9250_WarVictim.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSNA/699_Bomb.aiff
+0,01043,10,121.843880508,NA,NA,4.0
+0,01043,11,121.843880508,NA,NA,4.0
+1,10002,3,123.829790247,NA,NA,NA
+1,10002,4,124.831432999,NA,NA,NA
+1,10002,5,125.516249005,0.684816005798,1,3.0
+1,10002,5,125.72515191,0.893718911519,1,4.0
+1,10002,6,125.95632434,1.12489134088,1,4.0
+1,10002,6,128.817219289,NA,NA,4.0
+1,10002,7,128.838264304,-1,NA,1
+1,10002,9,128.838264304,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/8080_Sailing.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/SimplyTheBest/oceanwaves.aiff
+1,10002,10,134.848813326,NA,NA,0.0
+1,10002,11,134.848813326,NA,NA,4.0
+2,1060-2,3,136.834681725,NA,NA,NA
+2,1060-2,4,137.8364465,NA,NA,NA
+2,1060-2,6,141.817216723,NA,NA,-2.0
+2,1060-2,7,141.826423489,NA,NA,-1
+2,1060-2,8,141.826423489,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/3051_mutilation.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSNA/279_Attack1.aiff
+2,1060-2,10,147.853916063,NA,NA,6.0
+2,1060-2,11,147.853916063,NA,NA,10.0
+3,00201,3,149.823032213,NA,NA,NA
+3,00201,4,150.824555508,NA,NA,NA
+3,00201,6,154.81722157,NA,NA,1.0
+3,00201,7,154.831388808,NA,NA,-1
+3,00201,9,154.831388808,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/5201_Nature.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/152_Tropical.aiff
+3,00201,10,160.858798133,NA,NA,2.0
+3,00201,11,160.858798133,NA,NA,12.0

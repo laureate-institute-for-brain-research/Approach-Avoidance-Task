@@ -1,0 +1,6 @@
+run_id _AAC_T2_RX_P
+param_file AAC_RX_PARA.txt
+practice True
+randomize_schedules False
+final_run False
+volume_workup True

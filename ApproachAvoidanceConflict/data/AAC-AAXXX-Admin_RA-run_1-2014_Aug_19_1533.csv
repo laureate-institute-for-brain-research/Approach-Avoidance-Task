@@ -1,0 +1,505 @@
+Original File Name:,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\data/AAC-AAXXX-Admin_RA-run_1-2014_Aug_19_1533.csv,Time:,2014_Aug_19_1533,Parameter File:,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\T1000_AAC_Schedule1.csv,Post-question file:,T1000_AAC_PostQuestions.csv,Event Codes:,[('INSTRUCT_ONSET', 1), ('TASK_ONSET', 2), ('FIXATION_ONSET', 3), ('DECISION_ONSET', 4), ('SELECTOR_MOVEMENT', 5), ('FINAL_LOCATION', 6), ('OUTCOME_SIDE', 7), ('NEGATIVE_OUTCOME_SHOWN', 8), ('POSITIVE_OUTCOME_SHOWN', 9), ('POINTS_AWARDED', 10), ('TOTAL_POINTS', 11), ('VAS_RATING', 12), ('POST_RATING', 13)], For ratings the trial number is negative and used to identify the question being rated.  VAS ratings are in the order pleasant-unpleasant-intense and are from 0 (not at all) to 100 (very much) 
+trial_number,trial_type,event_code,absolute_time,response_time,response,result
+NA,NA,1,-0.00491760605655,NA,NA,NA
+NA,NA,2,4.16460324603,4.16952085208,NA,NA
+0,10204,3,4.180081905,NA,NA,NA
+0,10204,4,7.18513302489,NA,NA,NA
+0,10204,6,11.1696634891,NA,NA,4.0
+0,10204,7,11.1922998732,-1,NA,1
+0,10204,9,11.1922998732,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2383_Secretary.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/705_RotaryDial.aiff
+0,10204,10,17.2042119289,NA,NA,0.0
+0,10204,11,17.2042119289,NA,NA,0.0
+1,01064,3,19.188303624,NA,NA,NA
+1,01064,4,30.1731077844,NA,NA,NA
+1,01064,5,31.3806527326,1.20754494818,-1,3.0
+1,01064,5,31.524663961,1.35155617657,-1,2.0
+1,01064,5,31.6688556578,1.49574787336,-1,1.0
+1,01064,5,31.8046052531,1.63149746873,-1,0.0
+1,01064,5,31.9329730347,1.75986525025,-1,-1.0
+1,01064,5,32.0765817016,1.90347391718,-1,-2.0
+1,01064,5,32.2126905232,2.03958273877,-1,-3.0
+1,01064,5,32.3329035842,2.15979579985,-1,-4.0
+1,01064,6,32.4686298014,2.295522017,1,-4.0
+1,01064,6,34.1696557914,NA,NA,-4.0
+1,01064,7,34.1803111255,NA,NA,-1
+1,01064,9,34.1803111255,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2352_1_Kiss.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/FemaleLaughter1.aiff
+1,01064,10,40.1923318044,NA,NA,0.0
+1,01064,11,40.1923318044,NA,NA,0.0
+2,00024,3,42.1931095577,NA,NA,NA
+2,00024,4,49.1880752587,NA,NA,NA
+2,00024,5,52.340378911,3.15230365221,-1,3.0
+2,00024,5,52.645263903,3.45718864423,1,4.0
+2,00024,6,52.9166772786,3.72860201982,1,4.0
+2,00024,6,53.1696677656,NA,NA,4.0
+2,00024,7,53.1785092924,-1,NA,1
+2,00024,9,53.1785092924,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2515_Harvest.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/810_Beethoven.aiff
+2,00024,10,59.1886426081,NA,NA,2.0
+2,00024,11,59.1886426081,NA,NA,2.0
+3,01044,3,61.1746159644,NA,NA,NA
+3,01044,4,69.1879133218,NA,NA,NA
+3,01044,5,70.7162378822,1.52832456034,-1,3.0
+3,01044,5,70.9162670194,1.72835369757,-1,2.0
+3,01044,5,71.1322241335,1.94431081167,-1,1.0
+3,01044,5,71.3402198251,2.15230650322,-1,0.0
+3,01044,5,71.5642170493,2.37630372749,-1,-1.0
+3,01044,5,71.7802793654,2.59236604355,-1,-2.0
+3,01044,5,72.0122559735,2.82434265166,-1,-3.0
+3,01044,5,72.2362477808,3.04833445902,-1,-4.0
+3,01044,6,72.4043548211,3.2164414993,1,-4.0
+3,01044,6,73.1696626338,NA,NA,-4.0
+3,01044,7,73.1780745146,NA,NA,-1
+3,01044,9,73.1780745146,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2010_Adult.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/manlaugh.aiff
+3,01044,10,79.1881163132,NA,NA,0.0
+3,01044,11,79.1881163132,NA,NA,2.0
+4,10004,3,81.174364506,NA,NA,NA
+4,10004,4,86.1827652679,NA,NA,NA
+4,10004,6,87.6440262831,1.4612610152,1,4.0
+4,10004,6,90.1696620636,NA,NA,4.0
+4,10004,7,90.1897761664,-1,NA,1
+4,10004,9,90.1897761664,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2058_Baby.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/111_MusicBox.aiff
+4,10004,10,96.1841269063,NA,NA,0.0
+4,10004,11,96.1841269063,NA,NA,2.0
+5,01024,3,98.1859521177,NA,NA,NA
+5,01024,4,99.1876513148,NA,NA,NA
+5,01024,5,100.292041886,1.10439057129,-1,3.0
+5,01024,5,100.788026678,1.6003753629,-1,2.0
+5,01024,5,100.932051306,1.74439999099,-1,1.0
+5,01024,5,101.083937001,1.89628568635,-1,0.0
+5,01024,5,101.22797845,2.04032713536,-1,-1.0
+5,01024,5,101.364121199,2.17646988387,-1,-2.0
+5,01024,5,101.644057929,2.45640661444,-1,-3.0
+5,01024,5,101.93249093,2.74483961547,-1,-4.0
+5,01024,6,102.283938484,3.09628716887,1,-4.0
+5,01024,6,103.169657217,NA,NA,-4.0
+5,01024,7,103.177908871,NA,NA,-1
+5,01024,9,103.177908871,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/8497_CarnivalRide.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/360_RollerCoaster.aiff
+5,01024,10,109.188057583,NA,NA,0.0
+5,01024,11,109.188057583,NA,NA,2.0
+6,10400,3,111.175788581,NA,NA,NA
+6,10400,4,113.178870229,NA,NA,NA
+6,10400,5,114.211834367,1.03296413811,1,1.0
+6,10400,5,114.403873572,1.2250033428,1,2.0
+6,10400,5,114.579821437,1.40095120824,1,3.0
+6,10400,5,114.779952926,1.60108269645,1,4.0
+6,10400,6,114.963848529,1.78497829961,1,4.0
+6,10400,6,117.169663204,NA,NA,4.0
+6,10400,7,117.184651776,-1,NA,1
+6,10400,9,117.184651776,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2340_Family.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/Manlaughing_hard.aiff
+6,10400,10,123.194942182,NA,NA,0.0
+6,10400,11,123.194942182,NA,NA,2.0
+7,00204,3,125.180687458,NA,NA,NA
+7,00204,4,129.187608265,NA,NA,NA
+7,00204,6,133.169656077,NA,NA,4.0
+7,00204,7,133.177526267,-1,NA,1
+7,00204,9,133.177526267,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/7620_Jet.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/400_Jet.aiff
+7,00204,10,139.187745113,NA,NA,0.0
+7,00204,11,139.187745113,NA,NA,2.0
+8,01004,3,141.173861874,NA,NA,NA
+8,01004,4,150.188909177,NA,NA,NA
+8,01004,6,154.169667481,NA,NA,4.0
+8,01004,7,154.179907709,-1,NA,1
+8,01004,8,154.179907709,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/3120_DeadBody.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/KnifeSharpen.aiff
+8,01004,10,160.189303755,NA,NA,0.0
+8,01004,11,160.189303755,NA,NA,2.0
+9,10604,3,162.175350668,NA,NA,NA
+9,10604,4,172.175262572,NA,NA,NA
+9,10604,6,176.169658928,NA,NA,4.0
+9,10604,7,176.182255509,-1,NA,1
+9,10604,9,176.182255509,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2250_NeutBaby.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/GirlLaugh.aiff
+9,10604,10,182.193539774,NA,NA,0.0
+9,10604,11,182.193539774,NA,NA,2.0
+10,00200,3,184.17853096,NA,NA,NA
+10,00200,4,189.187108769,NA,NA,NA
+10,00200,5,191.867226082,2.68011731302,-1,-1.0
+10,00200,5,192.027734918,2.84062614842,-1,-2.0
+10,00200,5,192.195162849,3.00805408008,-1,-3.0
+10,00200,5,192.355293927,3.16818515775,-1,-4.0
+10,00200,6,192.499083347,3.31197457819,1,-4.0
+10,00200,6,193.169662634,NA,NA,-4.0
+10,00200,7,193.194855226,NA,NA,-1
+10,00200,9,193.194855226,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/8400_Rafters.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/waterfall.aiff
+10,00200,10,199.187461438,NA,NA,2.0
+10,00200,11,199.187461438,NA,NA,4.0
+11,10404,3,201.174792441,NA,NA,NA
+11,10404,4,207.18361002,NA,NA,NA
+11,10404,6,211.169662064,NA,NA,4.0
+11,10404,7,211.190501461,-1,NA,1
+11,10404,9,211.190501461,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/8380_Athletes.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/351_Applause.aiff
+11,10404,10,217.183807594,NA,NA,0.0
+11,10404,11,217.183807594,NA,NA,4.0
+12,01000,3,219.186678553,NA,NA,NA
+12,01000,4,222.174880537,NA,NA,NA
+12,01000,6,226.1696652,NA,NA,0.0
+12,01000,7,226.183403322,NA,NA,-1
+12,01000,9,226.183403322,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2030_Woman.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/FemaleLaughter1.aiff
+12,01000,10,232.192123966,NA,NA,0.0
+12,01000,11,232.192123966,NA,NA,4.0
+13,01060,3,234.178069953,NA,NA,NA
+13,01060,4,244.177964751,NA,NA,NA
+13,01060,6,248.169659213,NA,NA,0.0
+13,01060,7,248.185083988,NA,NA,-1
+13,01060,9,248.185083988,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/8340_Plane.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/Propeller.aiff
+13,01060,10,254.195114097,NA,NA,0.0
+13,01060,11,254.195114097,NA,NA,4.0
+14,1040-4,3,256.181247109,NA,NA,NA
+14,1040-4,4,264.177977866,NA,NA,NA
+14,1040-4,5,265.842379887,1.66440202091,1,-3.0
+14,1040-4,5,266.298497409,2.12051954377,1,-2.0
+14,1040-4,5,266.490488147,2.31251028142,-1,-3.0
+14,1040-4,5,266.834622026,2.65664415991,-1,-4.0
+14,1040-4,6,267.058440207,2.88046234126,1,-4.0
+14,1040-4,6,268.169657787,NA,NA,-4.0
+14,1040-4,7,268.184883277,NA,NA,-1
+14,1040-4,8,268.184883277,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/2141_GrievingFem.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/AudioMicro/WomanCrying.aiff
+14,1040-4,10,274.195599908,NA,NA,4.0
+14,1040-4,11,274.195599908,NA,NA,8.0
+15,00020,3,276.18117669,NA,NA,NA
+15,00020,4,280.18779301,NA,NA,NA
+15,00020,6,284.169663774,NA,NA,0.0
+15,00020,7,284.178322837,-1,NA,1
+15,00020,9,284.178322837,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2791_Balloons.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/Organ2.aiff
+15,00020,10,290.187904199,NA,NA,2.0
+15,00020,11,290.187904199,NA,NA,10.0
+16,0102-4,3,292.174308341,NA,NA,NA
+16,0102-4,4,299.185895383,NA,NA,NA
+16,0102-4,6,303.169663489,NA,NA,-4.0
+16,0102-4,7,303.192892882,NA,NA,-1
+16,0102-4,9,303.192892882,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2150_Baby.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/111_MusicBox.aiff
+16,0102-4,10,309.186314195,NA,NA,0.0
+16,0102-4,11,309.186314195,NA,NA,10.0
+17,10604,3,311.172474292,NA,NA,NA
+17,10604,4,313.17606969,NA,NA,NA
+17,10604,6,317.169656647,NA,NA,4.0
+17,10604,7,317.183472031,-1,NA,1
+17,10604,9,317.183472031,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/7140_Bus.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/820_FunkMusic.aiff
+17,10604,10,323.192932225,NA,NA,0.0
+17,10604,11,323.192932225,NA,NA,10.0
+18,1020-4,3,325.179047276,NA,NA,NA
+18,1020-4,4,334.177255137,NA,NA,NA
+18,1020-4,6,338.169658357,NA,NA,-4.0
+18,1020-4,7,338.18423724,-1,NA,1
+18,1020-4,9,338.18423724,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/8080_Sailing.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/SimplyTheBest/oceanwaves.aiff
+18,1020-4,10,344.194364569,NA,NA,0.0
+18,1020-4,11,344.194364569,NA,NA,10.0
+19,10000,3,346.18059366,NA,NA,NA
+19,10000,4,347.182170549,NA,NA,NA
+19,10000,6,351.169659498,NA,NA,0.0
+19,10000,7,351.18920397,NA,NA,-1
+19,10000,8,351.18920397,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/9433_DeadMan.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/Fall_Screaming.aiff
+19,10000,10,357.199356958,NA,NA,0.0
+19,10000,11,357.199356958,NA,NA,10.0
+20,0002-4,3,359.185436942,NA,NA,NA
+20,0002-4,4,369.185320336,NA,NA,NA
+20,0002-4,6,373.169660353,NA,NA,-4.0
+20,0002-4,7,373.192327243,NA,NA,-1
+20,0002-4,9,373.192327243,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/1540_Cat.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/catpurring.aiff
+20,0002-4,10,379.185540718,NA,NA,0.0
+20,0002-4,11,379.185540718,NA,NA,10.0
+21,0106-4,3,381.188632059,NA,NA,NA
+21,0106-4,4,389.186593593,NA,NA,NA
+21,0106-4,6,393.169656362,NA,NA,-4.0
+21,0106-4,7,393.192507426,NA,NA,-1
+21,0106-4,9,393.192507426,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2216_Children.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/112_KidsinPark.aiff
+21,0106-4,10,399.186119472,NA,NA,0.0
+21,0106-4,11,399.186119472,NA,NA,10.0
+22,01020,3,401.188438476,NA,NA,NA
+22,01020,4,412.173214697,NA,NA,NA
+22,01020,5,412.721042105,0.547827408343,1,1.0
+22,01020,5,412.913020013,0.739805316494,1,2.0
+22,01020,5,413.080983648,0.907768951394,1,3.0
+22,01020,5,413.25713365,1.08391895286,1,4.0
+22,01020,6,413.473014642,1.29979994521,1,4.0
+22,01020,6,416.169657502,NA,NA,4.0
+22,01020,7,416.180234148,-1,NA,1
+22,01020,8,416.180234148,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/3530_Attack.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSNA/286_Victim.aiff
+22,01020,10,422.190471526,NA,NA,2.0
+22,01020,11,422.190471526,NA,NA,12.0
+23,00020,3,424.176485081,NA,NA,NA
+23,00020,4,430.186502361,NA,NA,NA
+23,00020,6,434.169657217,NA,NA,0.0
+23,00020,7,434.195442818,NA,NA,-1
+23,00020,9,434.195442818,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2510_ElderlyWoman.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/foxtrot.aiff
+23,00020,10,440.189139253,NA,NA,0.0
+23,00020,11,440.189139253,NA,NA,12.0
+24,10600,3,442.173033658,NA,NA,NA
+24,10600,4,449.184682281,NA,NA,NA
+24,10600,5,452.144911947,2.9602296653,-1,-1.0
+24,10600,5,452.352632802,3.16795052029,-1,-2.0
+24,10600,5,452.488820881,3.30413859975,-1,-3.0
+24,10600,5,452.608647632,3.42396535007,-1,-4.0
+24,10600,6,452.95272335,3.76804106811,1,-4.0
+24,10600,6,453.169658072,NA,NA,-4.0
+24,10600,7,453.194692719,NA,NA,-1
+24,10600,8,453.194692719,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/9910_AutoAccident.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSNA/424_Carwreck.aiff
+24,10600,10,459.184937446,NA,NA,6.0
+24,10600,11,459.184937446,NA,NA,18.0
+25,0104-4,3,461.187869987,NA,NA,NA
+25,0104-4,4,464.176073396,NA,NA,NA
+25,0104-4,5,465.856502324,1.68042892752,1,-3.0
+25,0104-4,5,466.000564585,1.82449118885,1,-2.0
+25,0104-4,5,466.120473159,1.94439976291,1,-1.0
+25,0104-4,5,466.256531803,2.08045840688,1,0.0
+25,0104-4,5,466.376478581,2.20040518438,1,1.0
+25,0104-4,5,466.512517553,2.33644415643,1,2.0
+25,0104-4,5,466.648628655,2.47255525884,1,3.0
+25,0104-4,5,466.784563281,2.60848988422,1,4.0
+25,0104-4,6,468.169656362,NA,NA,4.0
+25,0104-4,7,468.183059491,-1,NA,1
+25,0104-4,8,468.183059491,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/3064_Mutilation.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSNA/276_FemScream2.aiff
+25,0104-4,10,474.193276056,NA,NA,4.0
+25,0104-4,11,474.193276056,NA,NA,22.0
+26,10200,3,476.179418477,NA,NA,NA
+26,10200,4,485.177789129,NA,NA,NA
+26,10200,5,486.960476364,1.78268723456,1,1.0
+26,10200,5,487.112287363,1.93449823366,1,2.0
+26,10200,5,487.240277957,2.06248882764,1,3.0
+26,10200,5,487.552306704,2.37451757486,1,4.0
+26,10200,6,489.1696652,NA,NA,4.0
+26,10200,7,489.184659473,-1,NA,1
+26,10200,9,489.184659473,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2510_ElderlyWoman.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/151_Cardinal.aiff
+26,10200,10,495.194749454,NA,NA,0.0
+26,10200,11,495.194749454,NA,NA,22.0
+27,0100-4,3,497.1811784,NA,NA,NA
+27,0100-4,4,502.189268403,NA,NA,NA
+27,0100-4,6,506.169659498,NA,NA,-4.0
+27,0100-4,7,506.179366018,NA,NA,-1
+27,0100-4,9,506.179366018,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2020_Adult.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/Manlaughing_hard.aiff
+27,0100-4,10,512.189476526,NA,NA,0.0
+27,0100-4,11,512.189476526,NA,NA,22.0
+28,10600,3,514.175685945,NA,NA,NA
+28,10600,4,518.182395493,NA,NA,NA
+28,10600,5,521.232008911,3.04961341841,1,1.0
+28,10600,5,521.360308554,3.17791306098,1,2.0
+28,10600,5,521.49601738,3.31362188702,1,3.0
+28,10600,5,521.631999617,3.44960412415,1,4.0
+28,10600,6,522.169659498,NA,NA,4.0
+28,10600,7,522.189375601,-1,NA,1
+28,10600,9,522.189375601,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/8130_PoleVaulter.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/352_SportsCrowd.aiff
+28,10600,10,528.182731341,NA,NA,0.0
+28,10600,11,528.182731341,NA,NA,22.0
+29,0020-4,3,530.185713489,NA,NA,NA
+29,0020-4,4,532.18897475,NA,NA,NA
+29,0020-4,6,536.1696652,NA,NA,-4.0
+29,0020-4,7,536.179222898,-1,NA,1
+29,0020-4,9,536.179222898,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2580_Chess.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/mansighs.aiff
+29,0020-4,10,542.189295488,NA,NA,0.0
+29,0020-4,11,542.189295488,NA,NA,22.0
+30,01040,3,544.176953501,NA,NA,NA
+30,01040,4,551.187174912,NA,NA,NA
+30,01040,6,555.169660353,NA,NA,0.0
+30,01040,7,555.194209474,NA,NA,-1
+30,01040,9,555.194209474,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/4603_Romance.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/230_Giggling.aiff
+30,01040,10,561.189085369,NA,NA,0.0
+30,01040,11,561.189085369,NA,NA,22.0
+31,01064,3,563.173668006,NA,NA,NA
+31,01064,4,564.175310468,NA,NA,NA
+31,01064,6,568.169660638,NA,NA,4.0
+31,01064,7,568.182764127,-1,NA,1
+31,01064,8,568.182764127,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/9421_Soldier.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/AudioMicro/ManCrying.aiff
+31,01064,10,574.192412488,NA,NA,6.0
+31,01064,11,574.192412488,NA,NA,28.0
+32,1000-4,3,576.178669234,NA,NA,NA
+32,1000-4,4,578.181980957,NA,NA,NA
+32,1000-4,6,582.169662349,NA,NA,-4.0
+32,1000-4,7,582.190053284,NA,NA,-1
+32,1000-4,8,582.190053284,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/3080_Mutilation.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSNA/287_CardiacArrest.aiff
+32,1000-4,10,588.182597914,NA,NA,0.0
+32,1000-4,11,588.182597914,NA,NA,28.0
+33,01020,3,590.185270443,NA,NA,NA
+33,01020,4,595.176783581,NA,NA,NA
+33,01020,5,596.207475186,1.03069160457,-1,-1.0
+33,01020,5,596.391371074,1.21458749282,-1,-2.0
+33,01020,5,596.54382925,1.36704566934,-1,-3.0
+33,01020,5,596.687236066,1.51045248534,-1,-4.0
+33,01020,6,599.169661208,NA,NA,-4.0
+33,01020,7,599.183769391,NA,NA,-1
+33,01020,9,599.183769391,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/8280_Diver.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/PartnersinRhyme/Cheer.aiff
+33,01020,10,605.193871345,NA,NA,0.0
+33,01020,11,605.193871345,NA,NA,28.0
+34,01000,3,607.180134649,NA,NA,NA
+34,01000,4,616.178296608,NA,NA,NA
+34,01000,6,620.169662064,NA,NA,0.0
+34,01000,7,620.187950385,NA,NA,-1
+34,01000,9,620.187950385,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2208_Bride.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/820_FunkMusic.aiff
+34,01000,10,626.195290004,NA,NA,0.0
+34,01000,11,626.195290004,NA,NA,28.0
+35,00200,3,628.181492296,NA,NA,NA
+35,00200,4,636.178117565,NA,NA,NA
+35,00200,6,640.169662064,NA,NA,0.0
+35,00200,7,640.18526246,NA,NA,-1
+35,00200,9,640.18526246,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/8465_Runner.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/heavybreathing.aiff
+35,00200,10,646.195820575,NA,NA,2.0
+35,00200,11,646.195820575,NA,NA,30.0
+36,1060-4,3,648.181425582,NA,NA,NA
+36,1060-4,4,652.18796521,NA,NA,NA
+36,1060-4,6,656.169664059,NA,NA,-4.0
+36,1060-4,7,656.178456264,NA,NA,-1
+36,1060-4,8,656.178456264,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/2800_SadChild.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/three_chords.aiff
+36,1060-4,10,662.188204409,NA,NA,6.0
+36,1060-4,11,662.188204409,NA,NA,36.0
+37,10004,3,664.174465431,NA,NA,NA
+37,10004,4,674.17439045,NA,NA,NA
+37,10004,6,678.169687723,NA,NA,4.0
+37,10004,7,678.181614889,-1,NA,1
+37,10004,9,678.181614889,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/4700_Couple.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/mansighs.aiff
+37,10004,10,684.191371017,NA,NA,0.0
+37,10004,11,684.191371017,NA,NA,36.0
+38,01024,3,686.177675089,NA,NA,NA
+38,01024,4,689.182617016,NA,NA,NA
+38,01024,6,693.169660923,NA,NA,4.0
+38,01024,7,693.189696623,-1,NA,1
+38,01024,8,693.189696623,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/9265_HungMan.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/mandying.aiff
+38,01024,10,699.182816586,NA,NA,2.0
+38,01024,11,699.182816586,NA,NA,38.0
+39,01044,3,701.185832091,NA,NA,NA
+39,01044,4,712.18745374,NA,NA,NA
+39,01044,6,716.169656932,NA,NA,4.0
+39,01044,7,716.177624627,-1,NA,1
+39,01044,8,716.177624627,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/3150_Mutilation.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/panic&pain.aiff
+39,01044,10,722.187766495,NA,NA,4.0
+39,01044,11,722.187766495,NA,NA,42.0
+40,10204,3,724.175304766,NA,NA,NA
+40,10204,4,734.173882402,NA,NA,NA
+40,10204,6,738.169663204,NA,NA,4.0
+40,10204,7,738.181409046,-1,NA,1
+40,10204,9,738.181409046,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/7496_Street.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/Tibetstreet.aiff
+40,10204,10,744.191461679,NA,NA,0.0
+40,10204,11,744.191461679,NA,NA,42.0
+41,01004,3,746.177152216,NA,NA,NA
+41,01004,4,747.178936943,NA,NA,NA
+41,01004,5,748.373769274,1.19483233117,-1,3.0
+41,01004,5,748.541870897,1.36293395456,-1,2.0
+41,01004,6,751.169675463,NA,NA,2.0
+41,01004,7,751.186773776,-1,NA,1
+41,01004,8,751.186773776,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/3110_BurnVictim.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSNA/277_FemScream3.aiff
+41,01004,10,757.196734892,NA,NA,0.0
+41,01004,11,757.196734892,NA,NA,42.0
+42,10400,3,759.182139758,NA,NA,NA
+42,10400,4,766.177042452,NA,NA,NA
+42,10400,6,770.169664059,NA,NA,0.0
+42,10400,7,770.183971242,-1,NA,1
+42,10400,9,770.183971242,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/1340_Women.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/226_Laughing.aiff
+42,10400,10,776.194423299,NA,NA,0.0
+42,10400,11,776.194423299,NA,NA,42.0
+43,00024,3,778.180310555,NA,NA,NA
+43,00024,4,781.185750267,NA,NA,NA
+43,00024,6,785.169658357,NA,NA,4.0
+43,00024,7,785.192172148,-1,NA,1
+43,00024,9,785.192172148,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2655_Child.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/4yroldchild_laugh.aiff
+43,00024,10,791.185733446,NA,NA,2.0
+43,00024,11,791.185733446,NA,NA,44.0
+44,1060-4,3,793.171709083,NA,NA,NA
+44,1060-4,4,795.191790684,NA,NA,NA
+44,1060-4,6,799.169657217,NA,NA,-4.0
+44,1060-4,7,799.182083308,NA,NA,-1
+44,1060-4,8,799.182083308,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/3062_Mutilation.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/Anguish.aiff
+44,1060-4,10,805.192272789,NA,NA,6.0
+44,1060-4,11,805.192272789,NA,NA,50.0
+45,1040-4,3,807.178352487,NA,NA,NA
+45,1040-4,4,811.184981352,NA,NA,NA
+45,1040-4,6,815.169663489,NA,NA,-4.0
+45,1040-4,7,815.192933936,-1,NA,1
+45,1040-4,9,815.192933936,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2383_Secretary.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/705_RotaryDial.aiff
+45,1040-4,10,821.185613989,NA,NA,0.0
+45,1040-4,11,821.185613989,NA,NA,50.0
+46,1000-4,3,823.188221515,NA,NA,NA
+46,1000-4,4,832.186402006,NA,NA,NA
+46,1000-4,6,836.169691999,NA,NA,-4.0
+46,1000-4,7,836.193392662,NA,NA,-1
+46,1000-4,8,836.193392662,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/2352_2_BloodyKiss.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSNA/277_FemScream3.aiff
+46,1000-4,10,842.186603001,NA,NA,0.0
+46,1000-4,11,842.186603001,NA,NA,50.0
+47,0104-4,3,844.172923039,NA,NA,NA
+47,0104-4,4,852.186231231,NA,NA,NA
+47,0104-4,6,856.169657502,NA,NA,-4.0
+47,0104-4,7,856.194978674,-1,NA,1
+47,0104-4,8,856.194978674,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/3010_mutilation.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/KnifeSharpen.aiff
+47,0104-4,10,862.187800137,NA,NA,4.0
+47,0104-4,11,862.187800137,NA,NA,54.0
+48,0002-4,3,864.174637632,NA,NA,NA
+48,0002-4,4,869.182670615,NA,NA,NA
+48,0002-4,6,873.169657217,NA,NA,-4.0
+48,0002-4,7,873.188161644,NA,NA,-1
+48,0002-4,9,873.188161644,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/5720_FarmLand.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/SimplyTheBest/crickets.aiff
+48,0002-4,10,879.198142716,NA,NA,0.0
+48,0002-4,11,879.198142716,NA,NA,54.0
+49,0102-4,3,881.18440887,NA,NA,NA
+49,0102-4,4,887.177712723,NA,NA,NA
+49,0102-4,6,891.169660353,NA,NA,-4.0
+49,0102-4,7,891.184760114,NA,NA,-1
+49,0102-4,9,891.184760114,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2058_Baby.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/111_MusicBox.aiff
+49,0102-4,10,897.194672192,NA,NA,0.0
+49,0102-4,11,897.194672192,NA,NA,54.0
+50,10404,3,899.180893015,NA,NA,NA
+50,10404,4,904.172377358,NA,NA,NA
+50,10404,6,908.169662349,NA,NA,4.0
+50,10404,7,908.179632017,NA,NA,-1
+50,10404,8,908.179632017,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/3500_Attack.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSNA/286_Victim.aiff
+50,10404,10,914.189558065,NA,NA,4.0
+50,10404,11,914.189558065,NA,NA,58.0
+51,0100-4,3,916.175621228,NA,NA,NA
+51,0100-4,4,923.187376193,NA,NA,NA
+51,0100-4,6,927.169656647,NA,NA,-4.0
+51,0100-4,7,927.178215354,NA,NA,-1
+51,0100-4,9,927.178215354,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2340_Family.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/Manlaughing_hard.aiff
+51,0100-4,10,933.187782461,NA,NA,0.0
+51,0100-4,11,933.187782461,NA,NA,58.0
+52,1020-4,3,935.173778055,NA,NA,NA
+52,1020-4,4,938.17878755,NA,NA,NA
+52,1020-4,6,942.16966577,NA,NA,-4.0
+52,1020-4,7,942.186056749,NA,NA,-1
+52,1020-4,8,942.186056749,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/3120_DeadBody.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/KnifeSharpen.aiff
+52,1020-4,10,948.195840817,NA,NA,2.0
+52,1020-4,11,948.195840817,NA,NA,60.0
+53,01060,3,950.182148881,NA,NA,NA
+53,01060,4,958.178664102,NA,NA,NA
+53,01060,6,962.169656077,NA,NA,0.0
+53,01060,7,962.185773075,NA,NA,-1
+53,01060,9,962.185773075,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2250_NeutBaby.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/GirlLaugh.aiff
+53,01060,10,968.195954858,NA,NA,0.0
+53,01060,11,968.195954858,NA,NA,60.0
+54,00204,3,970.18197497,NA,NA,NA
+54,00204,4,974.188546814,NA,NA,NA
+54,00204,6,978.169664059,NA,NA,4.0
+54,00204,7,978.179476922,-1,NA,1
+54,00204,9,978.179476922,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/8510_SportCar.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/ferrari.aiff
+54,00204,10,984.188982733,NA,NA,0.0
+54,00204,11,984.188982733,NA,NA,60.0
+55,10000,3,986.175009117,NA,NA,NA
+55,10000,4,995.173296236,NA,NA,NA
+55,10000,6,999.169663489,NA,NA,0.0
+55,10000,7,999.180412336,-1,NA,1
+55,10000,9,999.180412336,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/8380_Athletes.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/351_Applause.aiff
+55,10000,10,1005.1903726,NA,NA,0.0
+55,10000,11,1005.1903726,NA,NA,60.0
+56,0020-4,3,1007.1765957,NA,NA,NA
+56,0020-4,4,1013.18689095,NA,NA,NA
+56,0020-4,6,1017.16965693,NA,NA,-4.0
+56,0020-4,7,1017.19358967,NA,NA,-1
+56,0020-4,9,1017.19358967,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/8420_Tubing.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/SimplyTheBest/river.aiff
+56,0020-4,10,1023.18696593,NA,NA,2.0
+56,0020-4,11,1023.18696593,NA,NA,62.0
+57,01040,3,1025.1729966,NA,NA,NA
+57,01040,4,1035.17295896,NA,NA,NA
+57,01040,6,1039.16965636,NA,NA,0.0
+57,01040,7,1039.1800993,NA,NA,-1
+57,01040,9,1039.1800993,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2030_Woman.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/FemaleLaughter1.aiff
+57,01040,10,1045.18996889,NA,NA,0.0
+57,01040,11,1045.18996889,NA,NA,62.0
+58,0106-4,3,1047.17638501,NA,NA,NA
+58,0106-4,4,1058.17801806,NA,NA,NA
+58,0106-4,6,1062.16966035,NA,NA,-4.0
+58,0106-4,7,1062.18491122,NA,NA,-1
+58,0106-4,9,1062.18491122,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/8340_Plane.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/Freesound/Propeller.aiff
+58,0106-4,10,1068.19497525,NA,NA,0.0
+58,0106-4,11,1068.19497525,NA,NA,62.0
+59,10200,3,1070.18106921,NA,NA,NA
+59,10200,4,1072.18442541,NA,NA,NA
+59,10200,6,1076.16966121,NA,NA,0.0
+59,10200,7,1076.19152155,-1,NA,1
+59,10200,9,1076.19152155,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/PI/2620_Woman.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSPA/816_Guitar.aiff
+59,10200,10,1082.18488698,NA,NA,0.0
+59,10200,11,1082.18488698,NA,NA,62.0
+-1,NA,12,1227.62562449,0.783749517825,50,NA
+-2,NA,12,1227.62562449,0.783749517825,50,NA
+-3,NA,12,1227.62562449,0.783749517825,50,NA

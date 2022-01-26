@@ -1,0 +1,6 @@
+Original File Name:,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\data/AAC-AAXXX-Admin_RA-run_P-2014_Aug_21_1350.csv,Time:,2014_Aug_21_1350,Parameter File:,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\T1000_AAC_ScheduleP.csv,Post-question file:,T1000_AAC_PostQuestions.csv,Event Codes:,[('INSTRUCT_ONSET', 1), ('TASK_ONSET', 2), ('FIXATION_ONSET', 3), ('DECISION_ONSET', 4), ('SELECTOR_MOVEMENT', 5), ('FINAL_LOCATION', 6), ('OUTCOME_SIDE', 7), ('NEGATIVE_OUTCOME_SHOWN', 8), ('POSITIVE_OUTCOME_SHOWN', 9), ('POINTS_AWARDED', 10), ('TOTAL_POINTS', 11), ('VAS_RATING', 12), ('POST_RATING', 13)], For ratings the trial number is negative and used to identify the question being rated.  VAS ratings are in the order pleasant-unpleasant-intense and are from 0 (not at all) to 100 (very much) 
+trial_number,trial_type,event_code,absolute_time,response_time,response,result
+NA,NA,1,6.27222107141e-06,NA,NA,NA
+-1,NA,12,5.1230578564,3.85783296446,31,NA
+-2,NA,12,5.1230578564,3.85783296446,81,NA
+-3,NA,12,5.1230578564,3.85783296446,31,NA

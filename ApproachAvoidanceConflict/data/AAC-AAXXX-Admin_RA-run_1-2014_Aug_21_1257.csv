@@ -1,0 +1,21 @@
+Original File Name:,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\data/AAC-AAXXX-Admin_RA-run_1-2014_Aug_21_1257.csv,Time:,2014_Aug_21_1257,Parameter File:,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\T1000_AAC_Schedule1.csv,Post-question file:,T1000_AAC_PostQuestions.csv,Event Codes:,[('INSTRUCT_ONSET', 1), ('TASK_ONSET', 2), ('FIXATION_ONSET', 3), ('DECISION_ONSET', 4), ('SELECTOR_MOVEMENT', 5), ('FINAL_LOCATION', 6), ('OUTCOME_SIDE', 7), ('NEGATIVE_OUTCOME_SHOWN', 8), ('POSITIVE_OUTCOME_SHOWN', 9), ('POINTS_AWARDED', 10), ('TOTAL_POINTS', 11), ('VAS_RATING', 12), ('POST_RATING', 13)], For ratings the trial number is negative and used to identify the question being rated.  VAS ratings are in the order pleasant-unpleasant-intense and are from 0 (not at all) to 100 (very much) 
+trial_number,trial_type,event_code,absolute_time,response_time,response,result
+NA,NA,1,5.70202064409e-06,NA,NA,NA
+NA,NA,2,1.003130694,1.00312499198,NA,NA
+0,10204,3,1.01032350695,NA,NA,NA
+0,10204,4,4.03246188414,NA,NA,NA
+0,10204,5,5.19536174897,1.16289986483,-1,3.0
+0,10204,5,5.36330162915,1.33083974502,-1,2.0
+0,10204,5,5.53133445226,1.49887256812,-1,1.0
+0,10204,5,5.69164959149,1.65918770736,-1,0.0
+0,10204,5,5.84321526636,1.81075338222,-1,-1.0
+0,10204,5,6.00417387853,1.9717119944,-1,-2.0
+0,10204,5,6.18023143928,2.14776955515,-1,-3.0
+0,10204,5,6.61225438193,2.57979249779,-1,-4.0
+0,10204,5,7.41125789694,3.3787960128,1,-3.0
+0,10204,5,7.59528773675,3.56282585262,1,-2.0
+0,10204,5,7.77125235458,3.73879047044,1,-1.0
+0,10204,5,7.93932623223,3.90686434809,1,0.0
+0,10204,6,8.00817783688,NA,NA,0.0
+0,10204,7,8.02264243574,NA,NA,-1
+0,10204,8,8.02264243574,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/images/NI/3181_BatteredFem.gif \\isilon1\homefolders\rkuplicki\Documents\StimTool\ApproachAvoidanceConflict\media/sounds/IADSNA/290_Fight.aiff
